@@ -2,6 +2,8 @@
 
 package at.itkollegimst.pos1.timeservice;
 
+import at.itkollegimst.pos1.timeservice.interfaces.TimeService;
+import at.itkollegimst.pos1.timeservice.interfaces.TimeStore;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.Calendar;

@@ -1,4 +1,4 @@
-package at.itkollegimst.pos1.timeservice;
+package at.itkollegimst.pos1.timeservice.interfaces;
 
 import java.io.Serializable;
 

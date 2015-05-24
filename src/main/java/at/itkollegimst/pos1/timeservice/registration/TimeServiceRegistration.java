@@ -1,7 +1,8 @@
 /* TimeServiceRegistration.java */
 
-package at.itkollegimst.pos1.timeservice;
+package at.itkollegimst.pos1.timeservice.registration;
 
+import at.itkollegimst.pos1.timeservice.TimeServiceImpl;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.RemoteException;

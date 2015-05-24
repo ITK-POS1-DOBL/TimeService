@@ -19,7 +19,7 @@
           <configuration>
               <archive>
                   <manifest>
-                      <mainClass>at.itkollegimst.pos1.timeservice.TimeServiceRegistration</mainClass>
+                      <mainClass>at.itkollegimst.pos1.timeservice.registration.TimeServiceRegistration</mainClass>
                   </manifest>
               </archive>
           </configuration>
